@@ -1,0 +1,14 @@
+.item1,.item2
+{
+    width: 200px;
+    border:2.5px solid black;
+    display: inline-block;
+}
+.item1
+{
+    margin-right: 20px;
+}
+.item2
+{
+   margin-left: 20px;
+}

@@ -1,0 +1,15 @@
+
+.box1
+{
+    width: 300px;
+    margin-top: 30px;
+    border: 1px solid black;
+    
+}
+.box2
+{
+    width: 300px;
+    margin-bottom: 30px;
+    border: 1px solid black;
+  
+}
